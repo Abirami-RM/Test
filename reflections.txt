@@ -1,0 +1,2 @@
+what happens when you initialize a repositiory :
+it initialises a repository and stores all the required information about the repository in it
