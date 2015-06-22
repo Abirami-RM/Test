@@ -1,0 +1,2 @@
+How is the staging area different from working dir and repository?
+Staging area is the intermediate place in which the git keeps the data before they are committed. It helps us in placing the required set of files under a single commit
